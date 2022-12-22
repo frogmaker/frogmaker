@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @frogmaker
 - 👀 I’m interested in programming languages, 3D printing, SBCs, Arduino, servers, MySQL, linux
 - 🌱 I’m currently learning Python, C++
-- 💞️ I’m looking to collaborate on ...(no idea jet) 
+- 💞️ I’m looking for a job related to IT/programming 
 - 📫 How to reach me: kontakt@hupla.pl
 
 <!---
