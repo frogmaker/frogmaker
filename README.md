@@ -21,4 +21,5 @@ You can click the Preview link to take a look at your changes.
 ![MariaDB](https://img.shields.io/badge/-MariaDB-000000?style=flat&logo=mariadb)
 ![Apache2](https://img.shields.io/badge/-Apache2-000000?style=flat&logo=apache)
 ![Postfix](https://img.shields.io/badge/-Postfix-000000?style=flat&logo=postfix)
+![OpenSCAD](https://img.shields.io/badge/-OpenSCAD-000000?style=flat&logo=openscad)
 
