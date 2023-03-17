@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming languages, 3D printing, SBCs, Arduino, servers, MySQL, linux
 - 🌱 I’m currently learning Python, C++
 - 💞️ I’m looking for a job related to IT/programming 
-- 📫 How to reach me: kontakt@hupla.pl
+- 📫 How to reach me: frogmaker.pi@gmail.com
 
 <!---
 frogmaker/frogmaker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
