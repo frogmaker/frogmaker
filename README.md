@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @frogmaker
-- 👀 I’m interested in programming languages, 3D printing, SBCs, Arduino, servers, MySQL, linux
-- 🌱 I’m currently learning Python, C++
-- 💞️ I’m looking for a job related to IT/programming 
+- 👀 I’m interested in data science, programming languages (Python, R), 3D printing, SBCs, Arduino, servers, SQL, linux
+- 🌱 I’m currently learning Python, R, SQL
+- 💞️ I’m looking for a job related to Data Analysis/IT/programming 
 - 📫 How to reach me: frogmaker.pi@gmail.com
 
 <!---
@@ -18,6 +18,9 @@ You can click the Preview link to take a look at your changes.
 
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![R](https://img.shields.io/badge/-R-000000?style=flat&logo=r)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=sql)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-000000?style=flat&logo=mariadb)
 ![Apache2](https://img.shields.io/badge/-Apache2-000000?style=flat&logo=apache)
 ![Postfix](https://img.shields.io/badge/-Postfix-000000?style=flat&logo=postfix)
