@@ -16,7 +16,7 @@ You can click the Preview link to take a look at your changes.
 
 ## Tools:
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
+#![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![R](https://img.shields.io/badge/-R-000000?style=flat&logo=r)
