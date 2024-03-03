@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @frogmaker
 - 👀 I’m interested in data science, programming languages (Python, R), 3D printing, SBCs, Arduino, servers, SQL, linux
-- 🌱 I’m currently learning Python, R, SQL
+- 🌱 I’m currently learning Python, R, SQL, Spark
 - 💞️ I’m looking for a job related to Data Analysis/IT/programming 
 - 📫 How to reach me: frogmaker.pi@gmail.com
 
