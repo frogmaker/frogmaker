@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @frogmaker
 - 👀 I’m interested in data science, programming languages, 3D printing, SBCs, Arduino, servers, SQL, linux
-- 🌱 I’m currently learning C++, Python, R, SQL, Spark, ML
-<!-- - 💞️ I’m looking for a job related to Data Analysis/IT/programming --> 
+- 🌱 I’m currently learning C++, Python, R, SQL, Spark, ML <!-- - 💞️ I’m looking for a job related to Data Analysis/IT/programming --> 
 - 📫 How to reach me: frogmaker.pi@gmail.com
-
 <!---
 frogmaker/frogmaker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -17,10 +15,10 @@ You can click the Preview link to take a look at your changes.
 ## Tools:
 
 <!---![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)--->
+<!---![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)--->
 ![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github)
 ![CLion](https://img.shields.io/badge/-CLion-000000?style=flat&logo=CLion)
 ![PyCharm](https://img.shields.io/badge/-PyCharm-000000?style=flat&logo=PyCharm)
-<!---![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)--->
 ![R](https://img.shields.io/badge/-R-000000?style=flat&logo=r)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=sql)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-000000?style=flat&logo=mariadb)
